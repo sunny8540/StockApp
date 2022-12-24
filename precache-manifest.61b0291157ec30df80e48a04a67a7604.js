@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "5db76f51057f64484855",
-    "url": "/StockApp/static/css/main.cd6ea093.chunk.css"
+    "revision": "d83b52b47a7a205bd691",
+    "url": "/StockApp/static/css/main.90c42648.chunk.css"
   },
   {
-    "revision": "5db76f51057f64484855",
-    "url": "/StockApp/static/js/main.5db76f51.chunk.js"
+    "revision": "d83b52b47a7a205bd691",
+    "url": "/StockApp/static/js/main.d83b52b4.chunk.js"
   },
   {
     "revision": "fed5e64f664a214a437c",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/StockApp/static/js/runtime~main.9405acac.js"
   },
   {
-    "revision": "0bbe5cdee72401a430c4b393c7f4bab7",
+    "revision": "be340245a649b04d00118cf946b8b92a",
     "url": "/StockApp/index.html"
   }
 ];
