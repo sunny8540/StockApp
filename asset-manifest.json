@@ -1,0 +1,13 @@
+{
+  "main.css": "/StockApp/static/css/main.c6e7731c.chunk.css",
+  "main.js": "/StockApp/static/js/main.0c1727c3.chunk.js",
+  "main.js.map": "/StockApp/static/js/main.0c1727c3.chunk.js.map",
+  "static/js/1.fed5e64f.chunk.js": "/StockApp/static/js/1.fed5e64f.chunk.js",
+  "static/js/1.fed5e64f.chunk.js.map": "/StockApp/static/js/1.fed5e64f.chunk.js.map",
+  "runtime~main.js": "/StockApp/static/js/runtime~main.9405acac.js",
+  "runtime~main.js.map": "/StockApp/static/js/runtime~main.9405acac.js.map",
+  "static/css/main.c6e7731c.chunk.css.map": "/StockApp/static/css/main.c6e7731c.chunk.css.map",
+  "index.html": "/StockApp/index.html",
+  "precache-manifest.2fd017cf677f7f99f607f715d059676a.js": "/StockApp/precache-manifest.2fd017cf677f7f99f607f715d059676a.js",
+  "service-worker.js": "/StockApp/service-worker.js"
+}
